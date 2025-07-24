@@ -26,7 +26,7 @@ This is the **frontend interface** for the RAG (Retrieval-Augmented Generation) 
 
 - Node.js (v18+)
 - npm or yarn
-- Backend RAG API (see [rag-01 backend](../rag-01)) running at `http://localhost:PORT_NO`
+- Backend RAG API (see [rag-01 backend](https://github.com/Mathi27/AskDocs.AI)) running at `http://localhost:PORT_NO`
 
 ### Install dependencies
 
